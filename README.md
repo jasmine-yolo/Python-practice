@@ -1,4 +1,2 @@
 # Python-practicce
-Some practice about data mining with python
-practice records，will incould pandas, numpy, matplotlib and sklearn
-will contain the thesis and practice of different machien learning algorithm
+The practice will contain pandas, numpy, matplotlib and sklearn packages and will wlso inculde thesis and practice of different machine learning algorithm.
